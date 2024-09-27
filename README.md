@@ -29,7 +29,7 @@ ecommerce_demo/
 
 ## Clone the repository:
 To get started, clone the repository using the following command:
-   git clone https://github.com/your-username/e-commerce-automation.git
+   git clone https://github.com/Pritamb363/ecommerce_demo.git
 
 ## Install dependencies:
 After cloning the repository, navigate to the project directory and install the necessary dependencies listed in the requirements.txt file:
